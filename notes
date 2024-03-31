@@ -150,3 +150,6 @@ https://twitter.com/
 
 .footer__copy
 &#169; Bedimcode. All rigths reserved
+git remote add origin https://github.com/palak-khan/e-car-website.git
+git branch -M main
+git push -u origin main
